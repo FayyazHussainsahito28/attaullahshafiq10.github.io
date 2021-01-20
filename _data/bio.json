@@ -38,7 +38,7 @@
   },
   "interests": [
     {
-      "name": "Internet of Things & Green IoT",
+      "name": "Artificial Intelligence",
       "keywords": [
         "Security",
         "Protocols"
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "IoT",
       "keywords": [
       ]
     }
@@ -60,13 +60,14 @@
       "name": "Technical Skills",
       "level": "",
       "keywords": [
-        "MATLAB Programming and Simulink",
-        "Python, HTML CSS, JAVA, Javascript, Assembly",
+        "MATLAB Programming",
+        "Python, HTML CSS, JAVA, Javascript, Assembly, WordPress",
         "Cisco Packet Tracer",
-        "Mathematica, HFSS, Edsim, Kiel, Proteus, Multisim, EL Workbench, LABVIEW",
+        "Mathematica, HFSS, Edsim, Kiel, Proteus, Multisim, EL Workbench",
         "Network troubleshooting",
         "Hardware troubleshooting",
         "Digital Marketing"
+        "Search Engine Optimization"
                  ]
     },
     {
@@ -86,7 +87,8 @@
         "Antennas System",
         "Machine Learning, Artifcial Intelligence",
         "Data Science with MATLAB",
-        "Robotics",
+        "Satellite Communicataion",
+        "Radarb Systems",
         "Digital Image Processing"
                   ]
     }
@@ -96,8 +98,8 @@
       "institution": "Faculty of Engg. & Technology, University of Sindh",
       "area": "Telecommunications",
       "studyType": "B.S",
-      "startDate": "2018-01-01",
-      "endDate": "Present",
+      "startDate": "2017-01-01",
+      "endDate": "2020-12-31",
       "gpa": "",
       "courses": [
       ]
@@ -105,21 +107,21 @@
   ],
   "work": [
     {
-      "company": "Dawaat E-Magagize",
-      "position": "Web Developer and Writer",
+      "company": "UoWork",
+      "position": "Freelancer",
       "website": "",
       "startDate": "2020-03-03",
       "endDate": "Present",
-      "summary": "Administration and Web Devolopment",
+      "summary": "Digital Marketer, WordPress Developer, SEO Expert",
       "highlights": [
-        "Maintain, update, and oversee official E-Magazine newspaper website",
-        "Drive, design and build writers-community projects for Dawaat"
+        "I have been working as a digital marketer on Upwork",
+        "Provided my SEO and Wordpress services to a lot of firms and companies"
       ]
     },
     {
-      "company": "SysTech Engg: Solutions",
+      "company": "Pakistan Boradcasting Corporation- PBC",
       "position": "Internee",
-      "website": "http://www.sysstech.com/",
+      "website": "http://www.pbc.org.pk",
       "startDate": "2019-06-01",
       "endDate": "2019-07-02",
       "summary": "",
@@ -129,30 +131,6 @@
       ]
     }
   ],
-   "volunteer": [
-    {
-      "organization": "Ask Foundation",
-      "website": "http://dawaat.org",
-      "position": "Software Developer",
-      "startDate": "2020-06-06",
-      "endDate": "Present",
-      "summary": "Lead developer team",
-      "highlights": [
-        "Design firmware for foundation",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "Microsoft Community",
-      "website": "https://www.microsoft.com/",
-      "position": "Active Contributer",
-      "startDate": "2020-09-09",
-      "endDate": "Present",
-      "summary": "Got more than 10 trophies and 50+ Badges",
-      "highlights": [
-        ""
-      ]
-    },
     {
       "organization": "GitHub",
       "website": "http://github.com",
@@ -173,33 +151,33 @@
       "summary": ""
     },
     {
-      "title": "Google IT Support-Professional Certificate",
+      "title": "Fundamentals of Digital Marketing",
       "date": "",
-      "awarder": "Google",
+      "awarder": "Google Digital Garage",
       "summary": ""
     },
     {
       "title": "Specialization in Digital Marketing",
       "date": "",
-      "awarder": "UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN",
+      "awarder": "Virtual University of Pakistan",
       "summary": ""
     },
     {
-      "title": "Machine Learning",
+      "title": "Search Engine Optimization-SEO",
       "date": "",
-      "awarder": "STANFORD UNIVERSITY",
+      "awarder": "Virtual University of Pakistan",
       "summary": ""
     },
     {
-      "title": "Programming Essentials in Python-PCAP",
+      "title": "Python for Everyone",
       "date": "",
-      "awarder": "Cisco Networking Academy",
+      "awarder": "Michigan University",
       "summary": ""
     },
     {
-      "title": "Architecting with Google Compute Engine-Specialization",
+      "title": "Specialization in WordPress",
       "date": "",
-      "awarder": "Google Cloud",
+      "awarder": "Virtual University of Pakistan ",
       "summary": ""
     },
     {
@@ -209,21 +187,15 @@
       "summary": "Foundations of programming for software development, practice with popular technologies like HTML and CSS, Explore core languages like Python, JavaScript, and Java"
     },
     {
-      "title": "HCIA-5G",
+      "title": "Specialization in Cyber Security",
       "date": "",
-      "awarder": "ilearning.huawei",
-      "summary": ""
-    },
-    {
-      "title": "Introduction to Cyber Security",
-      "date": "",
-      "awarder": "Cisco Networking Academy",
-      "summary": ""
+      "awarder": "IBM",
+      "summary": "Offered by Coursera"
     },
     {
       "title": "Introduction to IoT",
       "date": "",
-      "awarder": "Cisco Networking Academy",
+      "awarder": "Coursera",
       "summary": ""
     },
     {
@@ -239,64 +211,10 @@
       "summary": ""
     },
     {
-      "title": "AI for Everyone",
+      "title": "Freelancing Specialization",
       "date": "",
-      "awarder": "deeplearning.ai",
-      "summary": ""
-    },
-    {
-      "title": "Computer Vision Basics",
-      "date": "",
-      "awarder": "The State University of New York",
-      "summary": ""
-    },
-    {
-      "title": "Certifed Network Security Specialist",
-      "date": "",
-      "awarder": "ICSI",
-      "summary": ""
-    },
-    {
-      "title": "Debating & Declamation course",
-      "date": "",
-      "awarder": "AIE",
-      "summary": ""
-    },
-    {
-      "title": "WordPress Specialization",
-      "date": "",
-      "awarder": "DigiSkills",
-      "summary": ""
-    },
-    {
-      "title": "Freelancing",
-      "date": "",
-      "awarder": "DigiSkills",
-      "summary": ""
-    },
-       {
-      "title": "The Fundamentals of Digital Marketing",
-      "date": "",
-      "awarder": "Google Digital Garage",
-      "summary": ""
-    },
-    {
-      "title": "Information Security",
-      "date": "",
-      "awarder": "University of London",
-      "summary": ""
-    },
-    {
-      "title": "Cryptography and Hashing",
-      "date": "",
-      "awarder": "University of California, Irvine",
-      "summary": ""
-    },
-    {
-      "title": "Cicso Networking Basics",
-      "date": "",
-      "awarder": "Cicso Networking Academy through coursera",
-      "summary": ""
+      "awarder": "Virtual University of Pakistan",
+      "summary": "Offered by Digiskills"
     },
     {
       "title": "Entrepreneurship",
@@ -305,72 +223,27 @@
       "summary": ""
     },
     {
-      "title": "NDG Linux Essentials course",
-      "date": "",
-      "awarder": "Cicso Networking Academy",
-      "summary": ""
-    },
-    {
-      "title": "Introduction to Packet Tracer",
-      "date": "",
-      "awarder": "Cicso Networking Academy",
-      "summary": ""
-    },
-    {
-      "title": "MATLAB onramp and Simulink onramp",
+      "title": "Image Processing Onramp",
       "date": "",
       "awarder": "Mathworks",
       "summary": ""
     },
     {
-      "title": "Aerial Robotics",
+      "title": "MATLAB onramp",
       "date": "",
-      "awarder": "UNIVERSITY OF PENNSYLVANIA",
-      "summary": ""
-    },
-    {
-      "title": "Certificate of Information Technology-CIT",
-      "date": "",
-      "awarder": "HCC",
+      "awarder": "Mathworks",
       "summary": ""
     }
   ],
   "publications": [
-    {
-      "name": "Cyber security for Industrial Control System (ICS)",
-      "type": "journal",
-      "author": "HM Attaullah, Rahat ALi Khan, Shaheryar Mughal",
+   {
+      "name": "Underwater Wireless Sensor Network MAC Protocols",
+      "type": "A Review",
+      "author": "Attaullah Shafiq, Fayaz Hussain Sahito, Rahat Ali Khan",
       "publisher": "",
-      "releaseDate": "December, 2020",
-      "website": "http://iksp.org/journals/index.php/ijetbas/",
-      "summary": ""
-    },
-    {
-      "name": "IoT Security Challenges & Possible Solutions: A Review",
-      "type": "journal",
-      "author": "Attaullah Shafiq, Mumtaz Qabulio",
-      "publisher": "",
-      "releaseDate": "January, 2021",
+      "releaseDate": "",
       "website": "",
-      "summary": ""
-    },
-    {
-      "name": "Wireless Robot Control With Human Eye Movement Tracking",
-      "type": "journal",
-      "author": "Attaullah Shafiq, Rahat Ali Khan, Attique",
-      "publisher": "",
-      "releaseDate": "January, 2021",
-      "website": "http://pafkiet.edu.pk/kjcis/index.php/kjcis",
-      "summary": ""
-    },
-    {
-      "name": "Road Monitoring System",
-      "type": "journal",
-      "author": "Attaullah Shafiq, Rahat Ali Khan, Rashida Zaheer",
-      "publisher": "",
-      "releaseDate": "January, 2021",
-      "website": "http://pafkiet.edu.pk/kjcis/index.php/kjcis",
-      "summary": ""
+      "summary": "In the publishing Process"
     }
   ],  
   "references": [
